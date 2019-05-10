@@ -7,6 +7,6 @@ public static void main(String[] args) {
 	
 	System.out.println("========");
         System.out.println("鎴戞槸鍦ㄦ湇鍔″櫒绔慨鏀圭殑鏂囦欢");///...sskk
-    System.out.println("smt");
+    System.out.println("smt");//
 }
 }
